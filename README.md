@@ -5,21 +5,20 @@
 Me chamo Daniel Soares Nardes, tenho 16 anos e sou natural de Santa Catarina. Estou cursando Técnico de Desenvolvimento de Sistemas no SENAI. Sou muito interessado na área da programação, e estou sempre em constante evolução.
 
 
-    <a href="https://github.com/nardesdaniel?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/nardesdaniel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/nardesdaniel?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/nardesdaniel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+ <a href="https://github.com/nardesdaniel?tab=repositories&sort=stargazers">
+  <img 
+    alt="Total de estrelas" 
+    src="https://img.shields.io/github/stars/nardesdaniel?style=for-the-badge&color=55960c&label=Estrelas"
+  />
+</a>
+
+<a href="https://github.com/nardesdaniel?tab=followers">
+  <img 
+    alt="Seguidores" 
+    src="https://img.shields.io/github/followers/nardesdaniel?style=for-the-badge&color=236ad3&label=Seguidores"
+  />
+</a>
+
 
 ---
 
