@@ -63,20 +63,17 @@ Me chamo Daniel Soares Nardes, tenho 16 anos e sou natural de Santa Catarina. Es
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nardesdaniel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=nardesdaniel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nardesdaniel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://streak-stats.demolab.com?user=nardesdaniel&theme=tokyonight&locale=pt_BR" 
   />
+</p>
+</p>
 
 </p>
